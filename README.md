@@ -111,7 +111,7 @@ FROM Rolling_Total;
 
 This reveals long-term cumulative layoff trends and seasonal shifts in workforce reductions.
 
-# **8. Top 5 Companies by Year**
+### 8. Top 5 Companies by Year
 Using SQL window functions like DENSE_RANK(), I identified the top 5 companies each year based on total layoffs.
 
 For example, in 2022, the top companies included Meta, Amazon, Cisco, Peloton, and Carvana.
